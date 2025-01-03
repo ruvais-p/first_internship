@@ -1,0 +1,115 @@
+List db = [
+  //name, type, current no, icon, compartment, mode, starting, ending, timetake, time, dose, light window, note, state
+  [
+    "Insulin",
+    "Injection",
+    "20",
+    "Icon",
+    0,
+    "Everyday",
+    DateTime(2024, 5, 24),
+    DateTime(2024, 6, 2),
+    "Before food",
+    [08, 00, "am"],
+    1,
+    5,
+    "",
+    1
+  ], //twice
+  [
+    "EVERTOR 10MG",
+    "Tablet",
+    "10",
+    "Icon",
+    2,
+    "Everyday",
+    DateTime(2024, 5, 24),
+    DateTime(2024, 6, 2),
+    "After food",
+    [08, 10, "am"],
+    1,
+    5,
+    "",
+    2
+  ], //once
+  [
+    "SUPRADYN TAB",
+    "Tablet",
+    "10",
+    "Icon",
+    3,
+    "Everyday",
+    DateTime(2024, 5, 24),
+    DateTime(2024, 6, 2),
+    "After food",
+    [08, 10, "am"],
+    1,
+    5,
+    "",
+    0
+  ], //once
+  [
+    "AUTRIN XT",
+    "Capsule",
+    "5",
+    "Icon",
+    4,
+    "Everyday",
+    DateTime(2024, 5, 24),
+    DateTime(2024, 5, 28),
+    "After food",
+    [01, 00, "pm"],
+    1,
+    5,
+    "Only after the food",
+    0
+  ],
+  [
+    "Insulin",
+    "Injection",
+    "20",
+    "Icon",
+    1,
+    "Everyday",
+    DateTime(2024, 5, 24),
+    DateTime(2024, 6, 2),
+    "Before food",
+    [07, 00, "pm"],
+    1,
+    5,
+    "",
+    0
+  ],
+  [
+    "EVERTOR 10MG",
+    "Tablet",
+    "10",
+    "Icon",
+    2,
+    "Everyday",
+    DateTime(2024, 5, 24),
+    DateTime(2024, 6, 2),
+    "After food",
+    [08, 30, "pm"],
+    1,
+    5,
+    "",
+    0
+  ], //
+  [
+    "SUPRADYN TAB",
+    "Tablet",
+    "10",
+    "Icon",
+    3,
+    "Everyday",
+    DateTime(2024, 5, 24),
+    DateTime(2024, 6, 2),
+    "After food",
+    [08, 10, "pm"],
+    1,
+    5,
+    "",
+    0
+  ], //once
+];
