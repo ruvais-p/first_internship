@@ -59,21 +59,6 @@ This repository documents my 30-day internship at **Kraltek**, a startup incubat
 2. **Responsive Design**: Ensuring compatibility across multiple devices.
 3. **Time Management**: Balancing design, development, and debugging tasks.
 4. **Team Collaboration**: Improving communication for seamless teamwork.
-
----
-
-## Screenshots
-
-Here are some application screens developed during the internship:
-
-| Screenshot                 | Description                 |
-|----------------------------|-----------------------------|
-| ![Landing Page](path/to/image) | Landing Page UI          |
-| ![Sign-Up Page](path/to/image) | User Sign-Up Interface   |
-| ![Data Page](path/to/image)    | Dynamic Data Display     |
-
-> Note: Add actual paths to your screenshots.
-
 ---
 
 ## Tools and Technologies
@@ -100,4 +85,4 @@ This internship was a transformative journey that bridged academic knowledge wit
 
 ---
 
-##Report : 
+##[Report](https://github.com/ruvais-p/first_internship/blob/main/internship_report_ruvais.pdf)
